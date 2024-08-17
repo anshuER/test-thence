@@ -1,4 +1,5 @@
 import React from 'react';
+import { FaArrowRight } from 'react-icons/fa';
 
 const HomeDecorBanner = () => {
   return (
@@ -21,8 +22,9 @@ const HomeDecorBanner = () => {
           <p className=' mt-1'>of lorem Ipsum fromavailable, majority.</p>
         </div>
 
-        <button className='mt-6 h-20 w-56  bg-[#C9A16F] text-lg text-white font-semibold py-3 px-6 rounded-2xl hover:bg-[#b48c5a] transition'>
+        <button className='mt-6 h-[75px] w-56 flex justify-center items-center gap-[10px]  bg-[#C9A16F] text-lg text-white font-semibold py-3 px-6 rounded-2xl hover:bg-[#b48c5a] transition'>
           Get Started
+          <FaArrowRight />
         </button>
       </div>
     </div>

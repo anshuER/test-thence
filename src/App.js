@@ -5,6 +5,7 @@ import HomeDecorBanner from './components/HomeDecorBanner';
 import ProjectPlanCards from './components/ProjectPlanCards';
 import AboutUs from './components/AboutUs';
 import StatsSection from './components/StatsSection';
+import EstimateBox from './components/EstimateBox';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Header />
       <HomeDecorBanner />
       <ProjectPlanCards />
+      <EstimateBox />
       <AboutUs />
       <StatsSection />
     </div>

@@ -14,7 +14,9 @@ const Card = ({ title }) => {
           available, majority.
         </p>
       </div>
-      <p className='text-lg font-semibold font-jost self-center'>Read More</p>
+      <p className='text-lg font-semibold font-jost self-center cursor-pointer'>
+        Read More
+      </p>
     </div>
   );
 };

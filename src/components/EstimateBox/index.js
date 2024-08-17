@@ -6,7 +6,7 @@ const EstimateBox = () => {
     <div className='relative bg-white rounded-lg h-[760px] overflow-hidden px-2 py-8'>
       <div className='absolute inset-0'>
         <img
-          src='/estimate.png'
+          src='https://anshuER.github.io/test-thence/estimate.png'
           alt='Decorative Home'
           className='w-full h-full object-cover'
         />
@@ -25,7 +25,7 @@ const EstimateBox = () => {
         <div className='flex flex-col gap-6'>
           <div className='flex '>
             <img
-              src='/phone.png'
+              src='https://anshuER.github.io/test-thence/phone.png'
               alt='Profile'
               className='w-16 h-16 rounded-full mr-4'
             />

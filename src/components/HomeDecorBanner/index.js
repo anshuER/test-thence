@@ -5,7 +5,7 @@ const HomeDecorBanner = () => {
     <div className='relative bg-white rounded-lg h-[760px] overflow-hidden px-2 py-8'>
       <div className='absolute inset-0'>
         <img
-          src='./test-thence/banner.png'
+          src='https://anshuER.github.io/test-thence/banner.png'
           alt='Decorative Home'
           className='w-full h-full object-cover'
         />
